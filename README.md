@@ -23,9 +23,8 @@ I enjoy turning ideas into reality through clean, maintainable code and love exp
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff) 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff)
-![NodeJS](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)
 
 **Backend**  
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=fff) 
