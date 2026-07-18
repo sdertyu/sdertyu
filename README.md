@@ -1,80 +1,88 @@
 # 👋 Hi, I'm Ngô Minh Phương
 
-**Backend Developer** | Passionate about building secure, scalable, and user-friendly applications.
+**DevOps Engineer | Cloud Infrastructure | Platform Automation**
+
+I build reliable cloud infrastructure, automate delivery workflows, and help teams ship software safely at scale.
 
 ---
 
 ## 🚀 About Me
-I'm a backend-focused developer with a strong interest in full-stack development.  
-I enjoy turning ideas into reality through clean, maintainable code and love exploring new technologies.
 
-- 🎓 Graduated with a GPA of 3.4 from Hanoi Open University – Faculty of IT
-- 💻 Strong foundation in backend, expanding skills in frontend & DevOps
-- 🛠 Experienced with **Java**, **Node.js**, **Vue.js**, and **Spring Boot**
-- 🔐 Interested in system security, architecture optimization, and high-performance applications
-- 🎯 Career goal: Become a **Tech Lead / PM / DevOps Engineer**
-- 📫 Contact: **phuongbsn59@gmail.com**
+I'm a DevOps Engineer focused on cloud infrastructure, Infrastructure as Code, Kubernetes, and CI/CD automation. I enjoy turning complex infrastructure requirements into secure, repeatable, and maintainable platforms.
 
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff) 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff) 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=fff)
-
-**Backend**  
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=fff) 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff) 
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff) 
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=fff)
-
-**Frontend**  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=fff) 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff) 
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
-
-**Database & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff) 
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=fff)  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff) 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff) 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=fff) 
+- ☁️ Working across **AWS** and **Microsoft Azure**
+- 🏗️ Building Infrastructure as Code with **Terraform**, **AWS CDK**, and **Bicep**
+- ☸️ Operating containerized workloads on **Amazon EKS** and **Azure AKS**
+- 🔄 Automating build, test, and deployment workflows with modern CI/CD practices
+- 🔐 Interested in cloud security, observability, reliability, and cost optimization
+- 🎓 IT graduate from Hanoi Open University — GPA: **3.4/4.0**
+- 📫 Reach me at **phuongbsn59@gmail.com**
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Tech Stack
 
-### 💬 Real-time Chat Application
-**Stack:** Vue.js 3, Spring Boot, MySQL, WebSocket, JWT (HttpOnly), OAuth2, Redis  
-- Built a real-time messaging system with authentication & online user tracking.
+### Cloud Platforms
 
-### 🏆 University Reward Management System
-**Stack:** Laravel, Vue.js, MySQL, Docker  
-- Developed a transparent, efficient reward management platform for academic institutions.
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 
-### 📊 Science & Technology Capacity Management System
-**Stack:** PHP, CodeIgniter 4, MySQL, Bootstrap 5  
-- Managed and evaluated research project proposals across multiple universities.
+### Infrastructure as Code
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-FF9900?logo=amazonwebservices&logoColor=white)
+![Bicep](https://img.shields.io/badge/Bicep-0078D4?logo=microsoftazure&logoColor=white)
+
+### Containers & Orchestration
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?logo=amazoneks&logoColor=white)
+![Azure AKS](https://img.shields.io/badge/Azure_AKS-0078D4?logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white)
+
+### CI/CD & Automation
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+### Observability & Version Control
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## ⚙️ What I Work On
+
+- Designing reusable cloud infrastructure for AWS and Azure
+- Provisioning environments with Terraform, AWS CDK, and Bicep
+- Deploying and operating Kubernetes workloads on EKS and AKS
+- Building CI/CD pipelines with automated checks and controlled deployments
+- Improving monitoring, logging, reliability, security, and cloud cost visibility
+- Supporting developers with self-service infrastructure and consistent environments
 
 ---
 
 ## 🏅 Achievements
-- 🥇 7 semesters with Excellent Scholarship
-- 🥇 1st Prize – Open Source Software (Faculty level)
-- 🥉 3rd Prize – Open Source Software, Vietnam Student Informatics Olympiad
-- 🥈 2nd Prize – Startup Idea Contest (Ministry of Education & Training)
+
+- 🥇 Excellent Scholarship across 7 semesters
+- 🥇 1st Prize — Open Source Software, Faculty level
+- 🥉 3rd Prize — Open Source Software, Vietnam Student Informatics Olympiad
+- 🥈 2nd Prize — Startup Idea Contest, Ministry of Education and Training
 
 ---
 
-## 📫 Connect with me
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff)](mailto:phuongbsn59@gmail.com)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)](https://github.com/your-username)
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phuongbsn59@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/sdertyu)
 
 ---
 
-✨ *"Code is like humor. When you have to explain it, it’s bad."* ✨
+> Automate what repeats. Observe what matters. Improve continuously.
